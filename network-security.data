@@ -1,0 +1,3 @@
+(
+ (:id "sha1:bffd9b20ba7b7f1cbb7b9c818a02751667e457b9" :fingerprint "sha1:1a:ae:f7:93:b1:3d:d7:9a:1a:83:3f:1f:d9:79:33:3e:90:60:1c:56" :host "www.yahoo.co.jp:443" :conditions (:insecure :unknown-ca :invalid))
+)

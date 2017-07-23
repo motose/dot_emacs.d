@@ -1,0 +1,109 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/motose/PostalCode/" . "julia/")
+ ("/Users/motose/" . ".emacs.d/")
+ ("/Users/motose/.emacs.d/site-lisp/extensions/emacs-epc/" . "demo/")
+ ("/Users/motose/.emacs.d/site-lisp/extensions/" . "emacs-epc/")
+ ("/Users/motose/.emacs.d/site-lisp/" . "extensions/")
+ ("/Users/motose/.emacs.d/" . "lisp/")
+ ("/Users/" . "motose/")
+ ("/" . "Users/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/motose/.emacs.d/lisp/"
+ "/Users/motose/"
+ "/Users/motose/.emacs.d/"
+ "/Users/motose/PostalCode/julia/"
+ "/Users/motose/.maxima/"
+ "/Users/motose/dropgg/Haskell/"
+ "/Users/motose/.emacs.d/site-lisp/extensions/emacs-epc/demo/"
+ "/Users/motose/.emacs.d/site-lisp/extensions/emacs-epc/"
+ "/Users/motose/.emacs.d/site-lisp/extensions/webkit/"
+ "/Users/motose/bin/"
+ "/Users/motose/tmp/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init-python.el"
+ "gomi.py"
+ "init-pyhton.el"
+ "init-elpa.el"
+ "init-python-mode.el"
+ "init-utils.el"
+ "init-compat.el"
+ "init-flycheck.el"
+ "init.el"
+ "gomi.jl"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/motose/.emacs.d/lisp/" (22871 18035 0 0) "xml-rpc.el" "occam-mode.el" "init-yaml.el" "init-xterm.el" "init-windows.el" "init-vc.el" "init-utils.el" "init-uniquify.el" "init-themes.el" "init-textile.el" "init-sql.el" "init-spelling.el" "init-slime.el" "init-site-lisp.el" "init-sessions.el~" "init-sessions.el" "init-ruby-mode.el" "init-recentf.el" "init-rails.el" "init-r.el" "init-python.el" "init-python-mode.el" "init-proxies.el" "init-preload-local.el" "init-php.el" "init-paredit.el" "init-osx-keys.el" "init-org.el" "init-nxml.el" "init-mmm.el" "init-misc.el" "init-markdown.el" "init-locales.el" "init-local.el" "init-lisp.el" "init-ledger.el" "init-json.el" "init-javascript.el" "init-isearch.el" "init-info.el" "init-ido.el" "init-ibuffer.el" "init-html.el" "init-hippie-expand.el" "init-haskell.el" "init-haml.el" "init-gui-frames.el" "init-grep.el" "init-github.el" "init-git.el" "init-frame-hooks.el" "init-fonts.el" "init-flyspell.el" "init-flycheck.el" "init-exec-path.el" "init-erlang.el" "init-elpa.el" "init-editing-utils.el" "init-dired.el" "init-dash.el" "init-darcs.el" "init-csv.el" "init-css.el" "init-csharp.el" "init-crontab.el" "init-compile.el" "init-compat.el" "init-common-lisp.el" "init-clojure.el" "init-clojure-cider.el" "init-cc.el" "init-benchmarking.el" "init-auto-complete.el" "current-string-to.el" "#init-python.el#" "#init-preload-local.el#" "../" "./")
+
+ ("/Users/motose/.emacs.d/" (22871 18053 0 0) "yasnippet/" "var/" "url/" "thumbs/" "some/" "snippets/" "site-lisp/" "recentf" "README.md" "places" "lisp/" "LICENSE" "init.el.1" "init.el.0" "init.el" "ido.last" "history" "err.log" "elpa/" "deepin-emacs/" "custom.el" "com.log" "collection/" "auto-save-list/" "apl/" "ac-comphist.dat" "abbrev_defs" ".smex-items" ".session" ".emacs.desktop.lock" ".emacs.desktop" "../" "./")
+
+ ("/Users/motose/" (22871 18035 0 0) "www/" "work/" "Untitled1.ipynb" "Untitled.ipynb" "tmp/" "src/" "Source/" "Snapshots/" "share/" "quicklisp/" "Public/" "PostalCode/" "Pictures/" "perl5/" "ownCloud/" "output.txt" "OneDrive/" "node_modules/" "Music/" "Movies/" "Library/" "libexec/" "leksah.lkshw" "leksah.lkshs" "Lady/" "kuzu/" "j64-805-user/" "IdeaProjects/" "gtk/" "gomi.py" "gomi.apl" "gomi" "GoglandProjects/" "go/" "github/" "gadget/" "eclipse/" "dropgg/" "Dropbox/" "Downloads/" "dot_old2/" "dot_old/" "Documents/" "Desktop/" "coco21.xyz.hello-world/" "CoCo.terminal" "CoCo/" "bin/" "Applications/" "AnacondaProjects/" "anaconda/" "abe/" ".yjp/" ".xsb/" ".xpce/" ".Xauthority" ".wget-hsts" ".webclipse.properties" ".webclipse/" ".vscode/" ".virtualenvs/" ".viminfo" ".vim/" ".Trash/" ".transterpreter/" ".TeXmacs/" ".templateengine/" ".swipl-dir-history/" ".subversion/" ".stack/" ".ssh/" ".spyder-py3/" ".ServiceHub/" ".serverauth.17146" ".Scilab/" ".scalaide/" ".sbt/" ".sbclrc" ".sbcl/" ".sage/" ".rnd" ".Rhistory" ".RData" ".rbenv/" ".Rapp.history" ".python_history" ".pyenv/" ".profile" ".perl6/" ".p2/" ".oracle_jre_usage/" ".octave_hist" ".nvm/" ".nuget.0/" ".npm/" ".mysql_history" ".mono/" ".maxima/" ".matplotlib/" ".m2/" ".local/" ".lesshst" ".leksah-0.16/" ".lein/" ".kite/" ".jupyter-scala/" ".jupyter/" ".juliarc.jl" ".julia_history" ".julia/" ".jhistory" ".jhbuildrc-fw-10.4-test" ".jhbuildrc-fw-10.4" ".jhbuildrc-custom" ".jhbuildrc-cfw-10.4u" ".jhbuildrc-cfw-10.4" ".jhbuildrc" ".java_history" ".ivy2/" ".ipython/" ".ipynb_checkpoints/" ".ihaskell/" ".IdentityService/" ".idea-build/" ".hgignore_global" ".grasp_settings/" ".gps/" ".gnuplot_history" ".gitignore_global" ".gitconfig" ".ghc/" ".gem/" ".emacs.d/" ".eclrc" ".eclipse/" ".dx86cl64_history" ".DS_Store" ".dropbox/" ".docker/" ".cvspass" ".cups/" ".cpanm/" ".cpan/" ".coursier/" ".config/" ".condarc" ".conda/" ".composer/" ".cmucl-init.lisp" ".cmake/" ".clisprc" ".clinit.cl" ".CFUserTextEncoding" ".ccl-init.lisp" ".cache/" ".cabal/" ".c9/" ".bashrc~" ".bashrc_old" ".bashrc" ".bash_sessions/" ".bash_profile-anaconda.bak" ".bash_profile" ".bash_logout" ".bash_login" ".bash_history" ".atom/" ".apl.history" ".android/" ".anaconda/" ".allegro-ide-options.cl" ".allegro-ide-options-backup.cl" ".abclrc" "..bashrc.un~" "../" "./")
+
+ ("/Users/motose/Dropbox/" (22823 54573 0 0) "可連.pdf" "アプリ/" "Type/" "Notebooks/" "id_rsa.pub" "id_rsa" "Icon
+" "dropgg/" "cocals.svg" "Apps/" "1Password/" ".DS_Store" ".dropbox.cache/" ".dropbox" "../" "./")
+
+ ("/Users/motose/Dropbox/dropgg/" (22866 25269 0 0) "untitled/" "scala/" "SageTeX/" "react/" "Pythonista/" "python/" "prolog/" "ompi/" "julia/" "java/" "haskell/" "fortran/" "clojure/" "cl/" "c_cpp/" "ada/" ".DS_Store" "../" "./")
+
+ ("/Users/motose/Dropbox/dropgg/Pythonista/" (22871 18059 0 0) "Welcome.md" "site-packages/" "launch_stash.py" "Examples/" "Editorial/" "DropboxSyncv2.py" "dropboxloginv2.py" "DropboxFilePicker.py" ".Trash/" ".DS_Store" "#DropboxFilePicker.py#" "../" "./")
+
+ ("/Users/motose/Dropbox/dropgg/Pythonista/Examples/" (22865 17700 0 0) "Widget/" "User Interface/" "Plotting/" "Overview.md" "ObjC/" "Misc/" "Games/" "Game Tutorial/" "Extension/" "Animation/" "../" "./")
+
+ ("/Users/motose/Dropbox/dropgg/Pythonista/Examples/Animation/" (22871 18059 0 0) "Swarm.py" "Stopwatch.py" "SimplexNoiseGradient.png" "SimplexNoise.py" "SimplexNoise.fsh" "Magic Text.py" "AnalogClock.py" "../" "./")
+
+ ("/Users/motose/tmp/" (22859 41275 0 0) "稲取/" "sagetex/" ".DS_Store" "../" "./")
+
+ ("/Users/motose/bin/" (22869 41798 0 0) "vi" "update-sbcl" "update-ompi" "update-occam" "update-maxima" "update-julia" "update-gcc" "update-emacs" "update-coco" "update-apl" "ssh_motose" "ssh_cocalc" "sbcl000" "sagetex_watch" "sage" "reduce-algebra/" "reduce" "pycheckers" "pdflatex_watch" "octave_gui" "macports" "libtool" "julia07" "julia06" "julia051" "julia" "jnote" "hello.scala" "hello.jl" "hello.clj" "gps" "gnatprove" "emacsclientw" "dx86cl64" "clojure" "ccl64" "ccl" "apl" ".update-sbcl.un~" ".update-opmi.un~" ".update-ompi.un~" ".update-occam.un~" ".update-mmm.un~" ".update-maxima.un~" ".update-julia.un~" ".update-gcc.un~" ".update-emacs.un~" ".update-coco.un~" ".update-apl.un~" ".DS_Store" ".apl.history" "../" "./")
+
+ ("/Users/motose/.maxima/" (22828 63222 0 0) "maxima-init.mac.000" "maxima-init.mac" "binary/" "../" "./")
+
+ ("/Users/motose/PostalCode/julia/" (22859 15824 0 0) "pcodes.jl" "pcodes" "gomi.jl" "db.jl" "../" "./")
+
+ ("/Users/" (22795 60171 0 0) "Shared/" "mydev/" "motose/" "Guest/" "coco/" ".localized" "../" "./")
+
+ ("/Users/motose/PostalCode/" (22855 15627 0 0) "julia/" "data/" ".DS_Store" "../" "./")
+
+ ("/Users/motose/.emacs.d/site-lisp/extensions/webkit/" (21650 5316 0 0) "xutils.pyo" "xutils.py" "webkit.el" "utils.pyo" "utils.py" "theme.css" "send_key.pyo" "send_key.py" "helm-webkit.el" "browser.py" "../" "./")
+
+ ("/Users/motose/.emacs.d/site-lisp/extensions/emacs-epc/" (21650 5384 0 0) "test-epc.el" "RPC-EPC/" "readme.md" "img/" "epcs.el" "epc.el" "demo/" "../" "./")
+
+ ("/Users/motose/.emacs.d/site-lisp/extensions/emacs-epc/demo/" (21650 5384 0 0) "echo-server.pl" "echo-client.pl" "echo-client.el" "dbi-server.pl" "dbi-client.el" "../" "./")
+
+ ("/Users/motose/dropgg/Haskell/" (22810 19511 0 0) "../" "./")
+
+ ("/var/log/apache2/" (21605 41284 0 0) "ssl_request_log" "error_log" "access_log" "../" "./")
+
+ ("/var/log/" (21697 8721 0 0) "wifi.log" "weekly.out" "watchdogd/" "uucp/" "system.log.7.gz" "system.log.6.gz" "system.log.5.gz" "system.log.4.gz" "system.log.3.gz" "system.log.2.gz" "system.log.1.gz" "system.log.0.gz" "system.log" "secinitd.log.2.gz" "secinitd.log.1.gz" "secinitd.log.0.gz" "sa/" "ppp/" "powermanagement/" "opendirectoryd.log.9" "opendirectoryd.log.8" "opendirectoryd.log.7" "opendirectoryd.log.6" "opendirectoryd.log.5" "opendirectoryd.log.4" "opendirectoryd.log.3" "opendirectoryd.log.2" "opendirectoryd.log.1" "opendirectoryd.log.0" "opendirectoryd.log" "monthly.out" "module/" "install.log" "hdiejectd.log" "fsck_hfs.log" "fax/" "emond/" "displaypolicyd.stdout.log" "displaypolicyd.log" "DiagnosticMessages/" "daily.out" "cups/" "coreduetd.log" "commerce.log" "com.apple.xpc.launchd/" "com.apple.revisiond/" "com.apple.clouddocs.asl/" "CDIS.custom" "bluetooth.pklg" "authd.log.6.gz" "authd.log.5.gz" "authd.log.4.gz" "authd.log.3.gz" "authd.log.2.gz" "authd.log.1.gz" "authd.log.0.gz" "authd.log" "asl/" "apache2/" "accountpolicy.log.7.gz" "accountpolicy.log.6.gz" "accountpolicy.log.5.gz" "accountpolicy.log.4.gz" "accountpolicy.log.3.gz" "accountpolicy.log.2.gz" "accountpolicy.log.1.gz" "accountpolicy.log.0.gz" "accountpolicy.log" "../" "./")
+
+ ("/var/" (21627 61979 0 0) "yp/" "www/" "webapp_set/" "vm/" "tmp/" "spool/" "rwho/" "run/" "rpc/" "root/" "phpMyAdmin/" "networkd/" "netboot/" "msgs/" "mail/" "log/" "lib/" "jabberd/" "folders/" "empty/" "db/" "backups/" "audit/" "at/" "agentx/" "../" "./")
+
+ ("/Users/motose/Downloads/" (21688 60706 0 0) "textmate-typescript-master.zip" "sublime-typescript-syntax-master.zip" "FW   さくらのマネージドサーバ  登録完了のお知らせ.msg" "AELEKTRONIKA-24-free-patches-for-Sunrizer-by-Alba-Ecstasy.zip" "25%E5%B9%B4%E4%B8%AD%E3%81%AE%E6%AD%BB%E8%80%85%E6%95%B0.pdf" "20150113-01_議事録_社会貢献フォーム申請機能強化.xlsx" ".localized" ".DS_Store" "../" "./")
+
+ ("/usr/" (21648 23313 0 0) "X11R6/" "X11/" "texbin/" "standalone/" "share/" "sbin/" "local/" "libexec/" "lib/" "include/" "bin/" "../" "./")
+
+ ("/Users/motose/dropgg/" (21684 31890 0 0) "word/" "TypeScript/" "tmp/" "text/" "texmacs/" "target/" "scheme/" "scala/" "SBCL/" "sage/" "REDUCE/" "Racket/" "Python3/" "Python/" "Prolog/" "Processing/" "ppt/" "pdf/" "octave/" "Occam/" "OCaml/" "Node/" "maxima/" "Mathematica/" "markdown/" "LISP/" "latex/" "Julia/" "Jlang/" "Java/" "IPython/" "i41CX/" "Haskell/" "Guile/" "Groovy/" "graphics/" "GO/" "gnuplot/" "F#/" "excel/" "EmacsLisp/" "Emacs/" "ECL/" "Dlang/" "D/" "CXX/" "CommonLisp/" "clojure/" "CLISP/" "Clang/" "Chicken/" "CCL/" "C/" "APL/" "ALISP/" "ada/" "A+/" ".DS_Store" "../" "./")
+
+ ("/Users/motose/.emacs.d/site-lisp/" (21650 2247 0 0) "extensions/" "../" "./")
+
+ ("/Users/motose/.emacs.d/site-lisp/extensions/" (21650 2247 0 0) "webkit/" "emacs-w3m/" "emacs-epc/" "../" "./")
+
+ ("/Volumes/" (21594 58089 0 0) "Macintosh HD/" "dav/" "../" "./")
+
+ ("/Applications/" (21595 26833 0 0) "Xcode.app/" "wxMaxima.app/" "Write.app/" "VoodooPad.app/" "virtual_ans/" "Utilities/" "Twitter.app/" "Transmit.app/" "Todo.app/" "Time Machine.app/" "TikZiT.app/" "The Witcher 2.app/" "TextEdit.app/" "Textastic.app/" "Texpad.app/" "TeXmacs-1.99.2.app/" "TeX/" "System Preferences.app/" "SWI-Prolog.app/" "sunvox/" "Stickies.app/" "SqueakLand/" "Spyder.app/" "Sky Gamblers - Storm Raiders.app/" "Skim.app/" "scilab-5.5.1.app/" "Sage.app/" "Safari.app/" "Reminders.app/" "QuickTime Player.app/" "PyCharm CE.app/" "Preview.app/" "PocketCAS.app/" "Photo Booth.app/" "Pharo3.0.app/" "Pages.app/" "owncloud.app/" "OneDrive.app/" "Numbers.app/" "Notes.app/" "Notebooks.app/" "NoteBook.app/" "NetBeans/" "NanoSync.app/" "NanoStudio.app/" "MultiMarkdown Composer.app/" "Mission Control.app/" "Microsoft OneNote.app/" "Microsoft Office 2011/" "Messages.app/" "Maxima.app/" "MathStudio.app/" "MarsEdit.app/" "Maps.app/" "Mail.app/" "MacPorts/" "LyX.app/" "LINE.app/" "LightTable.app/" "Lightshot Screenshot.app/" "Launchpad.app/" "Latexian.app/" "kotonoko.app/" "Kinoppy.app/" "Kindle.app/" "Keynote.app/" "jsMath TeX fonts/" "iTunes.app/" "iText Pro.app/" "iTeleport.app/" "iSoftPhone.app/" "iPhoto.app/" "IntelliJ IDEA 13 CE.app/" "iMovie.app/" "iMathGeo.app/" "Image Capture.app/" "iFunBox.app/" "iBooks.app/" "HIARCS Chess Explorer.app/" "HIARCS 14 WCSC/" "Gnuplot.app/" "GitHub.app/" "GeoGebra 5.app/" "GarageBand.app/" "Game Center.app/" "Galaxy on Fire 2 Full HD.app/" "FreeMat.app/" "Font Book.app/" "FaceTime.app/" "Evernote.app/" "Emacs.app/" "Eigenmath.app/" "eclipse/" "Easy Image Converter.app/" "DVD Player.app/" "Dropbox.app/" "Dictionary.app/" "Deep Shredder 12.app/" "Deep Junior Yokohama/" "Deep Junior 13.3/" "Deep HIARCS 14 WCSC/" "Day One.app/" "Dashboard.app/" "Contacts.app/" "Coda 2.app/" "Clozure CL.app/" "Cloud Outliner.app/" "Cinderella2.app/" "Chess.app/" "CherryBlossom OSX.app/" "Calendar.app/" "Calculator.app/" "Byword.app/" "Automator.app/" "App Store.app/" "Apollo MIDI over Bluetooth.app/" "Adobe Reader.app/" "1Password.app/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/motose/.emacs.d/elpa/" (21598 32052 0 0) "zonokai-theme-20140909.1941/" "zone-matrix-0.0.1/" "zenburn-theme-20140811.754/" "zenburn-0.1/" "zen-and-art-theme-20120622.737/" "yasnippet-20141017.736/" "xmlgen-20130219.219/" "wolfram-mode-20140118.757/" "wisi-1.0.6/" "warm-night-theme-20141024.526/" "waher-theme-20130917.7/" "virtualenvwrapper-20141026.1301/" "virtualenv-20140220.1501/" "unipoint-20140113.1424/" "underwater-theme-20131117.1602/" "ujelly-theme-20140504.1852/" "twilight-theme-20120412.603/" "twilight-bright-theme-20130605.143/" "twilight-anti-bright-theme-20140810.34/" "tronesque-theme-20140922.256/" "tron-theme-12/" "toxi-theme-20130418.1239/" "tommyh-theme-20131004.1630/" "theme-changer-20130725.1919/" "tex-smart-umlauts-20131210.2346/" "tangotango-theme-20140727.838/" "tango-plus-theme-20140425.1511/" "tango-2-theme-20120312.1325/" "tango-2-1.0.0/" "svg-mode-line-themes-20140210.940/" "sunny-day-theme-20140413.1425/" "sublime-themes-20141011.1134/" "subatomic256-theme-20130620.1910/" "subatomic-theme-20141019.1132/" "stekene-theme-20141101.1615/" "stekene-theme-20140908.1019/" "steady-theme-0.1.0/" "starter-kit-js-20111009.2054/" "starter-kit-bindings-20120101.1955/" "starter-kit-20130904.1547/" "spacegray-theme-20131230.1127/" "soothe-theme-20141027.741/" "solarized-theme-20141103.1605/" "solarized-theme-20141030.1052/" "soft-stone-theme-20140614.135/" "soft-morning-theme-20140615.540/" "soft-charcoal-theme-20140420.943/" "smyx-theme-20141103.834/" "smyx-theme-20141013.1326/" "smex-20141027.245/" "smart-mode-line-powerline-theme-20140926.142/" "smart-mode-line-20140904.1144/" "slime-volleyball-20140717.2141/" "slime-ritz-20130218.1537/" "slime-company-20140908.514/" "slime-annot-20131230.1908/" "slime-20141024.937/" "slim-mode-20140611.950/" "seti-theme-20141101.1308/" "scheme-here-20141028.18/" "scala-outline-popup-20141106.121/" "scala-mode2-20141105.514/" "scad-mode-20140609.2240/" "sbt-mode-20141028.1023/" "s-20140910.334/" "rich-minority-20140821.2020/" "reverse-theme-20130402.312/" "queue-0.1.1/" "pyvirtualenv-1.1/" "pyvenv-20140921.816/" "python-pylint-1.1/" "python-pep8-1.1/" "python-magic-20120505.1355/" "python-info-20130916.620/" "python-environment-20140321.1116/" "python-django-20140614.2014/" "python-cell-20131029.1616/" "python-20120402/" "pytest-0.2.1/" "pysmell-0.7.2/" "pymacs-0.25/" "pylint-20140729.1117/" "pyflakes-1.0/" "pyenv-mode-20141013.1304/" "pyde-0.6/" "pycomplete-1.0/" "py-isort-20141019.11/" "py-import-check-20130802.411/" "py-gnitset-20140224.2010/" "py-autopep8-20140908.31/" "px-20141006.548/" "purple-haze-theme-20141014.1929/" "professional-theme-20140916.717/" "powerline-20140516.2128/" "popwin-20140902.1727/" "popup-20141002.320/" "planet-theme-20140328.630/" "pkg-info-20140610.630/" "php-refactor-mode-20140920.1411/" "php-mode-20141027.353/" "php-extras-2.2.0.20140405/" "php-eldoc-20140202.1141/" "php-completion-0.3/" "php-boris-minor-mode-20140209.1035/" "php-boris-20130527.121/" "phoenix-dark-pink-theme-20140717.1051/" "phoenix-dark-mono-theme-20130306.1215/" "pastels-on-dark-theme-20120304.1022/" "paredit-20140128.1248/" "organic-green-theme-20141028.241/" "oldlace-theme-20141023.1004/" "occidental-theme-20130312.1258/" "obsidian-theme-20140420.943/" "nzenburn-theme-20130513/" "noctilux-theme-20140406.2/" "niflheim-theme-20140827.1130/" "naquadah-theme-20140731.209/" "mustang-theme-20141017.1623/" "monokai-theme-20141002.410/" "monochrome-theme-20140326.350/" "molokai-theme-20130828.0/" "moe-theme-20141104.539/" "minimal-theme-20140409.1601/" "magit-20141104.647/" "magic-latex-buffer-20140909.1929/" "lush-theme-20141027.957/" "load-theme-buffer-local-20120702.1336/" "light-soap-theme-20140903.1402/" "leuven-theme-20141022.314/" "less-css-mode-20140919.524/" "latex-preview-pane-20140403.1049/" "latex-pretty-symbols-20111011.546/" "latex-extra-20140921.352/" "jumblr-readme.txt" "julia-mode-20141019.941/" "j-mode-20140702.809/" "ir-black-theme-20130302.2355/" "inkpot-theme-20120505.708/" "ido-ubiquitous-20140904.1547/" "idle-highlight-mode-20120920.948/" "highlight-20140922.1850/" "heroku-theme-20130809.2143/" "hemisu-theme-20130508.1144/" "helm-themes-20140909.657/" "helm-bibtexkey-20140214.704/" "helm-bibtex-20141029.1724/" "helm-20141031.110/" "hc-zenburn-theme-20141031.355/" "haskell-mode-20141104.1247/" "gruvbox-theme-20140618.834/" "gruber-darker-theme-20141010.105/" "gratuitous-dark-theme-1.3/" "grandshell-theme-20140415.2225/" "gotham-theme-20141013.2347/" "git-rebase-mode-20140928.1547/" "git-commit-mode-20141014.1634/" "gandalf-theme-20130809.247/" "fuzzy-20131025.2343/" "flyspell-lazy-20140520.800/" "flyparens-20140723.1146/" "flymake-yaml-20130423.848/" "flymake-shell-20121104.1100/" "flymake-sass-20140308.325/" "flymake-rust-20141004.1552/" "flymake-ruby-20121104.1059/" "flymake-python-pyflakes-20131127.6/" "flymake-puppet-20141006.1855/" "flymake-phpcs-20140712.2331/" "flymake-php-20121104.1102/" "flymake-perlcritic-20120328.114/" "flymake-lua-20140310.230/" "flymake-less-0.3/" "flymake-json-20130423.2357/" "flymake-jslint-20130613.202/" "flymake-jshint-20140319.1500/" "flymake-hlint-20130309.145/" "flymake-haskell-multi-20130620.422/" "flymake-haml-20130324.351/" "flymake-google-cpplint-20140205.525/" "flymake-go-20130314.741/" "flymake-gjshint-20130327.532/" "flymake-elixir-20130810.717/" "flymake-easy-20140818.55/" "flymake-d-0.1/" "flymake-cursor-20130822.1032/" "flymake-csslint-1.1.0/" "flymake-css-20121104.1104/" "flymake-cppcheck-20140415.557/" "flymake-coffee-20140809.324/" "flymake-checkers-0.5/" "flymake-0.4.16/" "flylisp-0.2/" "flycheck-hdevtools-20140829.853/" "flycheck-haskell-0.4/" "flycheck-20141102.652/" "flatui-theme-20141008.315/" "flatland-theme-20140805.305/" "flappymacs-20140715.901/" "firebelly-theme-20140410.155/" "find-file-in-project-20140603.1619/" "f-20140828.716/" "ess-smart-underscore-20131229.1851/" "ess-R-object-popup-20130302.336/" "ess-R-data-view-20130509.458/" "ess-20141024.1610/" "espresso-theme-20130228.2348/" "epl-20140823.609/" "ensime-20141101.910/" "elisp-slime-nav-20140619.254/" "ebib-20140827.700/" "django-theme-20131022.202/" "distinguished-theme-20140513.1150/" "display-theme-20140115.756/" "deferred-20140816.2205/" "deep-thought-theme-0.1.1/" "dash-20141008.712/" "darkmine-theme-20140829.714/" "darkburn-theme-20140510.1449/" "darcula-theme-20141022.652/" "dakrone-theme-20140211.2045/" "cyberpunk-theme-20140630.1800/" "ctable-20140304.1659/" "company-auctex-20140714.2229/" "company-20141027.1832/" "colorsarenice-theme-20141101.1634/" "color-theme-solarized-20140408.1309/" "color-theme-sanityinc-tomorrow-20140906.332/" "color-theme-sanityinc-solarized-20140906.332/" "color-theme-buffer-local-20120702.1336/" "color-theme-approximate-20140227.2036/" "color-theme-20080305.34/" "clues-theme-20140922.2056/" "clojure-snippets-20140831.912/" "clojure-mode-20141101.1/" "clojure-here-0.11/" "cl-lib-highlight-20140127.1312/" "cl-format-1.1/" "cider-20141106.658/" "chicken-scheme-20141014.2237/" "cherry-blossom-theme-20140930.1722/" "cdlatex-20140707.426/" "calmer-forest-theme-20130925.2210/" "busybee-theme-20130920.942/" "bubbleberry-theme-20141017.244/" "birds-of-paradise-plus-theme-20130419.1429/" "bibtex-utils-20140707.1057/" "bibslurp-20130904.1053/" "bibretrieve-20131013.1132/" "base16-theme-20130413.1655/" "badger-theme-20140716.1932/" "autopair-20140825.427/" "auto-complete-auctex-20140223.958/" "auto-complete-20140824.1658/" "auctex-readme.txt" "auctex-lua-20130818.1120/" "auctex-latexmk-20140904.1918/" "auctex-11.88/" "async-20141001.151/" "assemblage-theme-20130715.621/" "archives/" "anti-zenburn-theme-20140812.1326/" "ample-zen-theme-20131129.440/" "ample-theme-20141103.816/" "alect-themes-20141021.1221/" "afternoon-theme-20140104.1059/" "ada-ref-man-2012.0/" "ada-mode-5.1.6/" "ac-slime-20141002.639/" "ac-haskell-process-20141023.619/" "ac-cider-20141013.1019/" "../" "./")
+
+ ("/Users/motose/.emacs.d/elpa/flymake-0.4.16/" (21598 32056 0 0) "flymake.elc" "flymake.el" "flymake-pkg.el" "flymake-autoloads.el" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

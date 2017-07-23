@@ -1,0 +1,139 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/motose/dropgg/haskell/coco01/" . "app/")
+ ("/Users/motose/Dropbox/dropgg/haskell/" . "hello-coco/")
+ ("/Users/motose/dropgg/haskell/" . "coco01/")
+ ("/Users/motose/dropgg/haskell/cocoPro01/" . "src/")
+ ("/Users/motose/.emacs.d/elpa/" . "haskell-mode-20170406.25/")
+ ("/Users/motose/dropgg/" . "python/")
+ ("/Users/motose/PostalCode/" . "julia/")
+ ("/Users/motose/" . ".emacs.d/")
+ ("/Users/motose/.emacs.d/site-lisp/extensions/emacs-epc/" . "demo/")
+ ("/Users/motose/.emacs.d/site-lisp/extensions/" . "emacs-epc/")
+ ("/Users/motose/.emacs.d/site-lisp/" . "extensions/")
+ ("/Users/motose/.emacs.d/" . "lisp/")
+ ("/Users/" . "motose/")
+ ("/" . "Users/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/motose/.emacs.d/"
+ "/Users/motose/.emacs.d/lisp/"
+ "/Users/motose/"
+ "/Users/motose/dropgg/python/"
+ "/Users/motose/dropgg/haskell/coco01/app/"
+ "/Users/motose/dropgg/haskell/"
+ "/Users/motose/Documents/SageTeX/"
+ "/Users/motose/Dropbox/dropgg/haskell/"
+ "/Users/motose/Dropbox/dropgg/haskell/hello0708/"
+ "/Users/motose/dropgg/haskell/hello0708/"
+ "/Users/motose/Dropbox/dropgg/haskell/hello03/"
+ "/Users/motose/dropgg/haskell/cocoPro01/"
+ "/Users/motose/dropgg/haskell/cocoPro01/src/"
+ "/Users/motose/.emacs.d/elpa/haskell-mode-20170406.25/"
+ "/Users/motose/dropgg/Pythonista/"
+ "/Users/motose/PostalCode/julia/"
+ "/Users/motose/.maxima/"
+ "/Users/motose/dropgg/Haskell/"
+ "/Users/motose/.emacs.d/site-lisp/extensions/emacs-epc/demo/"
+ "/Users/motose/.emacs.d/site-lisp/extensions/emacs-epc/"
+ "/Users/motose/.emacs.d/site-lisp/extensions/webkit/"
+ "/Users/motose/bin/"
+ "/Users/motose/tmp/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "init-local.el"
+ ".bashrc"
+ "test02.py"
+ "Main.hs"
+ "SageTest01.tex"
+ "SageTest01.pdf"
+ "hello.hs"
+ "Makefile"
+ "LICENSE"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/motose/.emacs.d/" (22884 13486 0 0) "yasnippet/" "var/" "url/" "thumbs/" "srecode-map.el" "some/" "snippets/" "site-lisp/" "semanticdb/" "request/" "recentf~" "recentf" "README.md" "places" "network-security.data" "lisp/" "LICENSE" "init.el.3" "init.el.2" "init.el.1" "init.el.0" "init.el" "ido.last~" "ido.last" "history" "framemove.el" "err.log" "elpa/" "ede-projects.el" "desktop/" "deepin-emacs/" "custom.el" "com.log" "collection/" "auto-save-list/" "apl/" "ac-comphist.dat" "abbrev_defs" ".smex-items" ".session" ".emacs.desktop.lock" ".emacs.desktop" "../" "./")
+
+ ("/Users/motose/" (22884 11970 0 0) "www/" "work/" "Untitled1.ipynb" "Untitled.ipynb" "tmp/" "src/" "spyder" "Source/" "Snapshots/" "share/" "quicklisp/" "Public/" "PostalCode/" "Pictures/" "perl5/" "ownCloud/" "output.txt" "OneDrive/" "node_modules/" "News/" "Music/" "Movies/" "Library/" "libexec/" "leksah.lkshw" "leksah.lkshs" "Lady/" "kuzu/" "java_temp/" "j64-805-user/" "IdeaProjects/" "hello" "gtk/" "gomi2" "gomi.apl" "gomi" "GoglandProjects/" "go/" "github/" "gadget/" "eclipse/" "dropgg/" "Dropbox/" "Downloads/" "dot_old2/" "dot_old/" "Documents/" "desktop.el" "Desktop/" "coco21.xyz.hello-world/" "CoCo.terminal" "CoCo/" "bin/" "Applications/" "AnacondaProjects/" "anaconda/" "abe/" ".yjp/" ".xsb/" ".xpce/" ".Xauthority" ".wget-hsts" ".webclipse.properties" ".webclipse/" ".vscode/" ".virtualenvs/" ".viminfo" ".vim/" ".Trash/" ".transterpreter/" ".TeXmacs/" ".templateengine/" ".swipl-dir-history/" ".subversion/" ".stack/" ".ssh/" ".spyder-py3/" ".ServiceHub/" ".serverauth.17146" ".Scilab/" ".scalaide/" ".sbt/" ".sbclrc" ".sbcl/" ".sage/" ".rstudio-desktop/" ".rnd" ".Rhistory" ".RData" ".rbenv/" ".Rapp.history" ".python_history" ".pyenv/" ".profile" ".perl6/" ".p2/" ".oracle_jre_usage/" ".omake/" ".octave_hist" ".ocamlinit" ".nvm/" ".nuget.0/" ".npm/" ".newsrc-dribble" ".mysql_history" ".mono/" ".maxima/" ".matplotlib/" ".m2/" ".local/" ".lesshst" ".leksah-0.16/" ".lein/" ".kite/" ".jupyter-scala/" ".jupyter/" ".juliarc.jl" ".julia_history" ".julia/" ".jline-jython.history" ".jhistory" ".jhbuildrc-fw-10.4-test" ".jhbuildrc-fw-10.4" ".jhbuildrc-custom" ".jhbuildrc-cfw-10.4u" ".jhbuildrc-cfw-10.4" ".jhbuildrc" ".java_history" ".ivy2/" ".ipython/" ".ipynb_checkpoints/" ".ihaskell/" ".IdentityService/" ".idea-build/" ".hgignore_global" ".grasp_settings/" ".gps/" ".gnuplot_history" ".gitignore_global" ".gitconfig" ".ghc-mod/" ".ghc/" ".gem/" ".emacs.d/" ".eclrc" ".eclipse/" ".dx86cl64_history" ".DS_Store" ".dropbox/" ".docker/" ".distlib/" ".cvspass" ".cups/" ".cpanm/" ".cpan/" ".coursier/" ".config/" ".condarc" ".conda/" ".composer/" ".cmucl-init.lisp" ".cmake/" ".clisprc" ".clinit.cl" ".CFUserTextEncoding" ".ccl-init.lisp" ".cache/" ".cabal/" ".c9/" ".bashrc~" ".bashrc_old" ".bashrc" ".bash_sessions/" ".bash_profile-anaconda.bak" ".bash_profile" ".bash_logout" ".bash_login" ".bash_history" ".atom/" ".apl.history" ".android/" ".anaconda/" ".allegro-ide-options.cl" ".allegro-ide-options-backup.cl" ".abclrc" "..bashrc.un~" "../" "./")
+
+ ("/Users/motose/.pyenv/" (22884 11970 0 0) "versions/" "version" "shims/" "coco_start.py" "../" "./")
+
+ ("/Users/motose/.emacs.d/lisp/" (22882 61759 0 0) "xml-rpc.el" "occam-mode.el" "init-yaml.el" "init-xterm.el" "init-windows.el" "init-vc.el" "init-utils.el" "init-uniquify.el" "init-themes.el" "init-textile.el" "init-sql.el" "init-spelling.el" "init-slime.el" "init-site-lisp.el" "init-sessions1.el" "init-sessions0.el" "init-sessions.el" "init-ruby-mode.el" "init-recentf.el" "init-rails.el" "init-r.el" "init-python.el" "init-python-mode.el" "init-proxies.el" "init-preload-local.el" "init-php.el" "init-paredit.el" "init-osx-keys.el" "init-org.el" "init-nxml.el" "init-mmm.el" "init-misc.el" "init-markdown.el" "init-locales.el" "init-local.el" "init-lisp.el" "init-ledger.el" "init-json.el" "init-javascript.el" "init-isearch.el" "init-info.el" "init-ido.el" "init-ibuffer.el" "init-html.el" "init-hippie-expand.el" "init-haskell.el.0" "init-haskell.el" "init-haml.el" "init-gui-frames.el" "init-grep.el" "init-github.el" "init-git.el" "init-frame-hooks.el" "init-fonts.el" "init-flyspell.el" "init-flycheck.el" "init-exec-path.el" "init-erlang.el" "init-elpa.el" "init-editing-utils.el" "init-dired.el" "init-dash.el" "init-darcs.el" "init-csv.el" "init-css.el" "init-csharp.el" "init-crontab.el" "init-compile.el" "init-compat.el" "init-common-lisp.el" "init-clojure.el" "init-clojure-cider.el" "init-cedet.el" "init-cc.el" "init-benchmarking.el" "init-auto-complete.el" "current-string-to.el" "#init-python.el#" "#init-preload-local.el#" "../" "./")
+
+ ("/Users/motose/dropgg/python/" (22881 54774 0 0) "test01.iws" "test01.ipr" "test01.iml" ".#test02.py" "../" "./")
+
+ ("/Users/motose/dropgg/Haskell/" (22880 31963 0 0) "coco03/" "coco02/" "coco01/" "../" "./")
+
+ ("/Users/motose/Dropbox/dropgg/haskell/" (22880 31963 0 0) "coco03/" "coco02/" "coco01/" "../" "./")
+
+ ("/Users/motose/Documents/SageTeX/" (22880 18568 0 0) "sagetex_watch.log" "sagetex.log" "SageTest01.tex" "SageTest01.sagetex.sout" "SageTest01.sagetex.scmd" "SageTest01.sagetex.sage.py" "SageTest01.sagetex.sage" "SageTest01.pdf" "SageTest01.out" "SageTest01.log" "SageTest01.aux" "sage-plots-for-SageTest01.tex/" "preamble.tex" ".texpadtmp/" ".DS_Store" "../" "./")
+
+ ("/Users/motose/dropgg/haskell/coco01/" (22881 48034 0 0) "test/" "stack.yaml" "src/" "Setup.hs" "README.md" "LICENSE" "coco01.cabal" "app/" ".stack-work/" ".hdevtools.sock" "../" "./")
+
+ ("/Users/motose/dropgg/haskell/coco01/app/" (22881 54700 0 0) "Main.hs" ".#Main.hs" "../" "./")
+
+ ("/Users/motose/dropgg/haskell/" (22880 31963 0 0) "coco03/" "coco02/" "coco01/" "../" "./")
+
+ ("/Users/motose/Dropbox/dropgg/haskell/hello0708/" (22879 60950 0 0) "test/" "stack.yaml" "src/" "Setup.hs" "README.md" "Project.ede" "Makefile" "Main01.hs" "LICENSE" "hello0708.cabal" "dist/" "app/" ".stack-work/" ".hdevtools.sock" "../" "./")
+
+ ("/Users/motose/dropgg/haskell/hello0708/" (22879 60825 0 0) "test/" "stack.yaml" "src/" "Setup.hs" "README.md" "Project.ede" "Makefile" "LICENSE" "hello0708.cabal" "dist/" "app/" ".stack-work/" "../" "./")
+
+ ("/Users/motose/dropgg/haskell/hello0708/app/" (22879 59859 0 0) "Main.hs" "../" "./")
+
+ ("/Users/motose/dropgg/haskell/hello0708/src/" (22879 55060 0 0) "Main.hs" "Lib.hs" "../" "./")
+
+ ("/Users/motose/bin/" (22879 52403 0 0) "vi" "update-sbcl" "update-ompi" "update-occam" "update-maxima" "update-julia" "update-gcc" "update-emacs" "update-coco" "update-apl" "stackprojct" "ssh_motose" "ssh_cocalc" "sbcl000" "sagetex_watch" "sage" "reduce-algebra/" "reduce" "pycheckers" "pdflatex_watch" "octave_gui" "macports" "libtool" "julia07" "julia06" "julia051" "julia" "jnote" "hello.scala" "hello.jl" "hello.clj" "gps" "gnatprove" "emacsclientw" "dx86cl64" "clojure" "ccl64" "ccl" "apl" ".update-sbcl.un~" ".update-opmi.un~" ".update-ompi.un~" ".update-occam.un~" ".update-mmm.un~" ".update-maxima.un~" ".update-julia.un~" ".update-gcc.un~" ".update-emacs.un~" ".update-coco.un~" ".update-apl.un~" ".DS_Store" ".apl.history" "../" "./")
+
+ ("/Users/motose/dropgg/haskell/cocoPro01/src/" (22879 52270 0 0) "Main.hs" "#Main.hs#" "../" "./")
+
+ ("/Users/motose/.emacs.d/elpa/" (22879 53810 0 0) "ycmd-1.2/" "yaxception-20150105.652/" "yasnippet-20170418.351/" "yari-20151127.2339/" "yaml-mode-20170406.241/" "yagist-20160417.2208/" "xml-rpc-20160430.1458/" "xcscope-1.3/" "wisi-1.1.4/" "whole-line-or-region-20110901.130/" "whitespace-cleanup-mode-20170505.1923/" "wgrep-20141016.1656/" "websocket-20161113.1736/" "w3m-20170511.41/" "virtualenvwrapper-20161002.1515/" "virtualenv-20140220.1501/" "vc-darcs-20170409.623/" "unfill-20160816.2300/" "undo-tree-20161012.701/" "typescript-mode-20170530.953/" "tss-readme.txt" "tss-20150913.708/" "tidy-20111222.1756/" "textile-mode-20170304.916/" "tern-django-0.1.0/" "tern-context-coloring-1.0.1/" "tern-auto-complete-0.21.0/" "tern-0.21.0/" "telepathy-1.0/" "tagedit-20161121.55/" "tablist-0.70/" "switch-window-20170510.1625/" "swiper-0.9.1/" "swift3-mode-20160918.550/" "swift-mode-20170224.1825/" "string-utils-20140508.1341/" "sql-indent-20170112.1507/" "spinner-1.7.3/" "smex-20151212.1409/" "smarty-mode-20100703.458/" "smartrep-1.0.0/" "slime-20170511.1221/" "skewer-mode-20170122.938/" "skewer-less-20160828.1321/" "simple-httpd-20170125.1910/" "shampoo-20131230.219/" "session-20120510.1700/" "scss-mode-20150107.1400/" "scratch-20120830.1105/" "scala-outline-popup-20141215.953/" "scala-mode2-20141105.514/" "scala-mode-20170323.502/" "sbt-mode-20170508.1/" "sass-mode-20161006.2326/" "sage-shell-mode-20170218.1829/" "s-20170428.1026/" "ruby-hash-syntax-20141010.839/" "ruby-compilation-20150708.2340/" "rtags-2.10/" "robe-20170428.553/" "rinari-20150708.2340/" "request-deferred-0.3.0/" "request-20170131.1747/" "regex-tool-20170104.1118/" "redshank-20120510.1230/" "recompile-on-save-20151126.646/" "react-snippets-20160712.1521/" "rainbow-mode-0.12/" "rainbow-delimiters-20160430.2358/" "quickrun-readme.txt" "quickrun-2.2.8/" "queue-0.1.1.signed" "queue-0.1.1/" "pyvenv-20170224.538/" "pythonic-0.1.0/" "python-mode-6.2.3/" "python-environment-0.0.2/" "pylint-20170402.555/" "pyimport-1.0/" "pyenv-mode-0.1.0/" "pydoc-0.1/" "pycarddavel-1.0.1/" "py-yapf-2016.1/" "py-isort-2016.1/" "py-autopep8-2016.1/" "projectile-0.14.0/" "project-local-variables-20080502.1652/" "processing-mode-20150217.432/" "pos-tip-20150318.813/" "popwin-20150315.600/" "popup-20160709.729/" "pkg-info-20150517.443/" "pip-requirements-20160930.2032/" "php-mode-20170428.1853/" "pdf-tools-0.70/" "pcache-20170105.1414/" "paredit-everywhere-20150821.2144/" "paredit-20170405.1149/" "page-break-lines-20161205.2251/" "packed-20170314.1340/" "package-lint-0.5/" "osx-trash-0.2/" "osx-plist-1.0.0/" "osx-location-20150613.217/" "osx-dictionary-0.4/" "osx-clipboard-0.1/" "osx-browse-0.8.8/" "orgtbl-show-header-1.0.0/" "orglink-1.1.2/" "orgit-1.4.0/" "orgbox-0.5.0/" "org2jekyll-0.1.9/" "org2blog-20160502.1821/" "org-vcard-0.1.0/" "org-trello-0.8.0/" "org-tree-slide-2.8.4/" "org-transform-tree-table-0.1.2/" "org-tracktable-0.3.1/" "org-toodledo-2.1.0/" "org-time-budgets-1.0.1/" "org-themis-0.4.1/" "org-tfl-0.3.4/" "org-table-sticky-header-0.1.1/" "org-table-comment-0.2.0/" "org-sync-0.3.0/" "org-static-blog-1.0.3/" "org-repo-todo-0.0.2/" "org-random-todo-0.5/" "org-protocol-jekyll-0.1/" "org-projectile-0.2.6/" "org-pomodoro-20161119.226/" "org-pdfview-0.4/" "org-password-manager-0.0.1/" "org-multiple-keymap-0.2/" "org-mime-0.0.7/" "org-mac-link-20170105.1723/" "org-mac-iCal-20140107.519/" "org-linkany-0.0.2/" "org-link-travis-0.0.1/" "org-journal-1.12.0/" "org-jira-2.7.0/" "org-if-0.2.0/" "org-gnome-0.3/" "org-gcal-0.2/" "org-fstree-20090723.819/" "org-elisp-help-1.0.0/" "org-edna-1.0alpha1/" "org-edit-latex-0.8.0/" "org-dropbox-20150113.2109/" "org-dp-1/" "org-doing-0.1/" "org-commentary-0.3.0/" "org-bullets-0.2.4/" "org-bookmark-heading-1.0.0/" "org-board-1018/" "org-beautify-theme-0.3.1/" "org-autolist-0.13/" "org-alert-0.1.0/" "org-agenda-property-1.3.1/" "org-ac-0.0.2/" "org-20170703/" "org-20170502/" "npm-mode-20160706.1129/" "nose-20140520.948/" "nodejs-repl-20170110.940/" "names-20151201.404/" "mwe-log-commands-20100703.541/" "multiple-cursors-20170215.552/" "multi-term-1.2/" "move-dup-20161026.742/" "mmm-mode-20170220.1548/" "metaweblog-20141130.605/" "merlin-2.5.5/" "marshal-20160807.1954/" "markdown-mode-20170511.1320/" "magit-svn-90141129/" "magit-gh-pulls-20161020.249/" "magit-90141129/" "macrostep-20161120.1306/" "lua-mode-20170130.435/" "logito-20120225.1255/" "log4e-20170401.604/" "lively-20160208.1035/" "literate-coffee-mode-20170211.715/" "list-utils-20160414.702/" "let-alist-1.0.5/" "less-css-mode-20160930.2153/" "ledger-mode-20170423.1748/" "jump-20161126.1728/" "julia-shell-20161125.1110/" "julia-mode-20170607.537/" "jsx-mode-20130908.1024/" "json-snatcher-20150511.2047/" "json-reformat-20160212.53/" "json-mode-20170418.1900/" "js2-mode-20170503.1846/" "js-comint-20161212.2125/" "jquery-doc-20150812.58/" "j-mode-1.1.1/" "ivy-erlang-complete-0.2.4/" "ivy-20170511.1158/" "irony-1.0.0/" "ipretty-20140406.2220/" "inflections-20161126.1727/" "inf-ruby-20170212.1444/" "image-dired+-20150429.2244/" "image-archive-20150620.1832/" "image+-20150707.916/" "idomenu-20141123.1320/" "ido-ubiquitous-20170313.1603/" "ido-completing-read+-20170313.1603/" "ibuffer-vc-20161103.2358/" "htmlize-20161211.1019/" "ht-20161015.1945/" "hl-sexp-20101130.443/" "hippie-expand-slime-20170317.0/" "highlight-symbol-20160102.1209/" "highlight-quoted-20140916.1122/" "highlight-indentation-20170502.43/" "highlight-escape-sequences-20161028.1617/" "hi2-20141005.1231/" "helm-core-2.8.0/" "helm-2.8.0/" "hayoo-20140831.521/" "haxe-mode-20131004.142/" "haskell-mode-20170406.25/" "haml-mode-20170208.28/" "guide-key-20150107.2235/" "graphviz-dot-mode-20151127.621/" "goto-chg-20131228.1459/" "go-mode-20170308.1512/" "go-autocomplete-20150903.1940/" "go-add-tags-20161123.427/" "go-20161110.1849/" "gnuplot-20141231.1337/" "gnupg/" "gntp-20141024.1950/" "gnome-calendar-0.2/" "gitignore-mode-20160319.302/" "github-clone-20160622.2010/" "github-browse-file-20160205.627/" "gitconfig-mode-20160710.1913/" "git-timemachine-20170325.220/" "git-rebase-mode-20140928.1547/" "git-messenger-20170101.2040/" "git-commit-mode-20141014.1634/" "git-blame-20110509.926/" "ghci-completion-20151125.457/" "ghc-imported-from-0.1.2/" "ghc-20160808.813/" "gh-20161119.2004/" "fullframe-20160504.749/" "fsharp-mode-20170416.335/" "flycheck-ycmd-1.2/" "flycheck-yamllint-0.1.0/" "flycheck-title-1.0/" "flycheck-tip-0.5.0/" "flycheck-swift3-1.1.0/" "flycheck-swift-2.0/" "flycheck-status-emoji-1.2.2/" "flycheck-rtags-2.10/" "flycheck-rebar3-1.1.0/" "flycheck-pos-tip-0.3/" "flycheck-pony-0.2.1/" "flycheck-package-0.12/" "flycheck-ocaml-0.3/" "flycheck-objc-clang-1.1.0/" "flycheck-mix-1.0.0/" "flycheck-ledger-20140605.1146/" "flycheck-kotlin-0.3/" "flycheck-julia-0.0.3/" "flycheck-joker-1.0.0/" "flycheck-irony-0.1.0/" "flycheck-hdevtools-20160926.2/" "flycheck-haskell-20160524.117/" "flycheck-gometalinter-0.1.4/" "flycheck-dmd-dub-0.9/" "flycheck-color-mode-line-0.3/" "flycheck-clojure-0.1.5/" "flycheck-checkpatch-0.1/" "flycheck-checkbashisms-1.5/" "flycheck-cask-0.4/" "flycheck-apertium-readme.txt" "flycheck-apertium-0.2/" "flycheck-20170511.1425/" "findr-20130824.1207/" "find-file-in-project-20170507.150/" "fill-column-indicator-20151030.1233/" "f-0.19.0/" "expand-region-20170222.343/" "exec-path-from-shell-20170508.4/" "evil-20170510.1321/" "ess-smart-underscore-0.79/" "ess-R-object-popup-1.0/" "ess-R-data-view-1.0/" "ess-20170501.306/" "erlang-20170509.742/" "epl-20150517.433/" "epc-20140609.2234/" "ensime-20170511.848/" "elpy-20170430.255/" "elixir-mode-2.3.1/" "elisp-slime-nav-20160128.1109/" "elein-20120120.316/" "ein-20170426.1909/" "eimp-20140630.1447/" "eide-20170420.1251/" "dsvn-20130120.1257/" "dired-sort-20090209.438/" "dired+-20170409.1822/" "diminish-20170419.1036/" "diff-hl-20170424.303/" "deferred-20170331.1759/" "dash-functional-2.13.0/" "dash-20170207.2056/" "dart-mode-20170127.1652/" "darcsum-20140315.2110/" "d-mode-20161022.717/" "ctable-20140304.1659/" "csv-nav-20130407.1820/" "csv-mode-1.6/" "css-eldoc-20150124.1923/" "crontab-mode-20090510.1355/" "counsel-0.9.1/" "context-coloring-8.1.0/" "concurrent-20161228.1930/" "company-quickhelp-20170429.1052/" "company-php-1.7.9/" "company-go-20150303/" "company-ghc-1.1.0/" "company-erlang-0.1.1/" "company-cabal-0.1.1/" "company-20170420.1837/" "color-theme-sanityinc-tomorrow-20170511.234/" "color-theme-sanityinc-solarized-20160429.1903/" "coffee-mode-20170324.240/" "clojure-mode-20170407.312/" "cljsbuild-mode-20160402.1000/" "cl-lib-highlight-20140127.1312/" "cider-20170509.208/" "chess-2.0.4.signed" "chess-2.0.4/" "cdlatex-20140707.426/" "bug-reference-github-20131202.1303/" "browse-url-dwim-20140731.1222/" "browse-kill-ring-20160125.9/" "auto-complete-sage-20160514.51/" "auto-complete-pcmp-0.0.2/" "auto-complete-20170124.1845/" "auto-compile-20170130.1017/" "auctex-11.90.2/" "async-20170502.2343/" "archives/" "anzu-20161017.907/" "alert-20170503.1714/" "aggressive-indent-20170321.1300/" "ada-ref-man-2012.3/" "ada-mode-5.2.1/" "ace-jump-mode-20140616.115/" "ac-slime-20150729.2035/" "ac-php-core-1.7.9/" "ac-js2-20140906.442/" "ac-inf-ruby-20131115.350/" "ac-haskell-process-20150423.702/" "ac-cider-20161006.19/" "aa-edit-mode-readme.txt" "0blayout-readme.txt" ".apl.history" "../" "./")
+
+ ("/Users/motose/.emacs.d/elpa/org-20170703/" (22879 53828 0 0) "README_ELPA" "ox.elc" "ox.el" "ox-texinfo.elc" "ox-texinfo.el" "ox-publish.elc" "ox-publish.el" "ox-org.elc" "ox-org.el" "ox-odt.elc" "ox-odt.el" "ox-md.elc" "ox-md.el" "ox-man.elc" "ox-man.el" "ox-latex.elc" "ox-latex.el" "ox-icalendar.elc" "ox-icalendar.el" "ox-html.elc" "ox-html.el" "ox-beamer.elc" "ox-beamer.el" "ox-ascii.elc" "ox-ascii.el" "orgcard.pdf" "org.elc" "org.el" "org-w3m.elc" "org-w3m.el" "org-version.el" "org-timer.elc" "org-timer.el" "org-table.elc" "org-table.el" "org-src.elc" "org-src.el" "org-rmail.elc" "org-rmail.el" "org-protocol.elc" "org-protocol.el" "org-plot.elc" "org-plot.el" "org-pkg.elc" "org-pkg.el" "org-pcomplete.elc" "org-pcomplete.el" "org-mouse.elc" "org-mouse.el" "org-mobile.elc" "org-mobile.el" "org-mhe.elc" "org-mhe.el" "org-macs.elc" "org-macs.el" "org-macro.elc" "org-macro.el" "org-loaddefs.el" "org-list.elc" "org-list.el" "org-lint.elc" "org-lint.el" "org-irc.elc" "org-irc.el" "org-install.el" "org-inlinetask.elc" "org-inlinetask.el" "org-info.elc" "org-info.el" "org-indent.elc" "org-indent.el" "org-id.elc" "org-id.el" "org-habit.elc" "org-habit.el" "org-gnus.elc" "org-gnus.el" "org-footnote.elc" "org-footnote.el" "org-feed.elc" "org-feed.el" "org-faces.elc" "org-faces.el" "org-eww.elc" "org-eww.el" "org-eshell.elc" "org-eshell.el" "org-entities.elc" "org-entities.el" "org-element.elc" "org-element.el" "org-docview.elc" "org-docview.el" "org-datetree.elc" "org-datetree.el" "org-ctags.elc" "org-ctags.el" "org-crypt.elc" "org-crypt.el" "org-compat.elc" "org-compat.el" "org-colview.elc" "org-colview.el" "org-clock.elc" "org-clock.el" "org-capture.elc" "org-capture.el" "org-bibtex.elc" "org-bibtex.el" "org-bbdb.elc" "org-bbdb.el" "org-autoloads.el" "org-attach.elc" "org-attach.el" "org-archive.elc" "org-archive.el" "org-agenda.elc" "org-agenda.el" "org" "ob.elc" "ob.el" "ob-tangle.elc" "ob-tangle.el" "ob-table.elc" "ob-table.el" "ob-stan.elc" "ob-stan.el" "ob-sqlite.elc" "ob-sqlite.el" "ob-sql.elc" "ob-sql.el" "ob-shen.elc" "ob-shen.el" "ob-shell.elc" "ob-shell.el" "ob-sed.elc" "ob-sed.el" "ob-screen.elc" "ob-screen.el" "ob-scheme.elc" "ob-scheme.el" "ob-scala.elc" "ob-scala.el" "ob-sass.elc" "ob-sass.el" "ob-ruby.elc" "ob-ruby.el" "ob-ref.elc" "ob-ref.el" "ob-R.elc" "ob-R.el" "ob-python.elc" "ob-python.el" "ob-processing.elc" "ob-processing.el" "ob-plantuml.elc" "ob-plantuml.el" "ob-picolisp.elc" "ob-picolisp.el" "ob-perl.elc" "ob-perl.el" "ob-org.elc" "ob-org.el" "ob-octave.elc" "ob-octave.el" "ob-ocaml.elc" "ob-ocaml.el" "ob-mscgen.elc" "ob-mscgen.el" "ob-maxima.elc" "ob-maxima.el" "ob-matlab.elc" "ob-matlab.el" "ob-makefile.elc" "ob-makefile.el" "ob-lua.elc" "ob-lua.el" "ob-lob.elc" "ob-lob.el" "ob-lisp.elc" "ob-lisp.el" "ob-lilypond.elc" "ob-lilypond.el" "ob-ledger.elc" "ob-ledger.el" "ob-latex.elc" "ob-latex.el" "ob-keys.elc" "ob-keys.el" "ob-js.elc" "ob-js.el" "ob-java.elc" "ob-java.el" "ob-J.elc" "ob-J.el" "ob-io.elc" "ob-io.el" "ob-haskell.elc" "ob-haskell.el" "ob-groovy.elc" "ob-groovy.el" "ob-gnuplot.elc" "ob-gnuplot.el" "ob-fortran.elc" "ob-fortran.el" "ob-forth.elc" "ob-forth.el" "ob-exp.elc" "ob-exp.el" "ob-eval.elc" "ob-eval.el" "ob-emacs-lisp.elc" "ob-emacs-lisp.el" "ob-ebnf.elc" "ob-ebnf.el" "ob-dot.elc" "ob-dot.el" "ob-ditaa.elc" "ob-ditaa.el" "ob-css.elc" "ob-css.el" "ob-core.elc" "ob-core.el" "ob-coq.elc" "ob-coq.el" "ob-comint.elc" "ob-comint.el" "ob-clojure.elc" "ob-clojure.el" "ob-calc.elc" "ob-calc.el" "ob-C.elc" "ob-C.el" "ob-awk.elc" "ob-awk.el" "ob-asymptote.elc" "ob-asymptote.el" "ob-abc.elc" "ob-abc.el" "etc/" "dir" "COPYING" "../" "./")
+
+ ("/Users/motose/Dropbox/dropgg/haskell/hello03/" (22879 53335 0 0) "Main.hs" "../" "./")
+
+ ("/Users/motose/dropgg/haskell/hello-coco/" (22879 52233 0 0) "test/" "stack.yaml" "src/" "Setup.hs" "README.md" "LICENSE" "hello-coco.cabal" "app/" "../" "./")
+
+ ("/Users/motose/Dropbox/dropgg/haskell/hello-coco/" (22879 52055 0 0) "test/" "stack.yaml" "src/" "Setup.hs" "README.md" "Project.ede" "LICENSE" "hello-coco.cabal" "app/" ".#README.md" "../" "./")
+
+ ("/Users/motose/tmp/" (22874 4582 0 0) "稲取/" "sagetex/" ".DS_Store" "../" "./")
+
+ ("/Users/motose/.emacs.d/site-lisp/extensions/webkit/" (21650 5316 0 0) "xutils.pyo" "xutils.py" "webkit.el" "utils.pyo" "utils.py" "theme.css" "send_key.pyo" "send_key.py" "helm-webkit.el" "browser.py" "../" "./")
+
+ ("/Users/motose/.emacs.d/site-lisp/extensions/emacs-epc/" (21650 5384 0 0) "test-epc.el" "RPC-EPC/" "readme.md" "img/" "epcs.el" "epc.el" "demo/" "../" "./")
+
+ ("/Users/motose/.emacs.d/site-lisp/extensions/emacs-epc/demo/" (21650 5384 0 0) "echo-server.pl" "echo-client.pl" "echo-client.el" "dbi-server.pl" "dbi-client.el" "../" "./")
+
+ ("/Users/motose/.maxima/" (22828 63222 0 0) "maxima-init.mac.000" "maxima-init.mac" "binary/" "../" "./")
+
+ ("/Users/motose/PostalCode/julia/" (22859 15824 0 0) "pcodes.jl" "pcodes" "gomi.jl" "db.jl" "../" "./")
+
+ ("/Users/motose/dropgg/Pythonista/" (22866 24266 0 0) "Welcome.md" "site-packages/" "launch_stash.py" "Examples/" "Editorial/" "DropboxSyncv2.py" "dropboxloginv2.py" "DropboxFilePicker.py~" "DropboxFilePicker.py" ".Trash/" ".DS_Store" "#DropboxFilePicker.py#" "../" "./")
+
+ ("/Users/motose/.emacs.d/elpa/haskell-mode-20170406.25/" (22877 38232 0 0) "w3m-haddock.el" "NEWS" "logo.svg" "inf-haskell.el" "highlight-uses-mode.el" "haskell.el" "haskell-utils.el" "haskell-unicode-input-method.el" "haskell-string.el" "haskell-sort-imports.el" "haskell-session.el" "haskell-sandbox.el" "haskell-repl.el" "haskell-process.el" "haskell-presentation-mode.el" "haskell-navigate-imports.el" "haskell-move-nested.el" "haskell-modules.el" "haskell-mode.info" "haskell-mode.el" "haskell-mode-pkg.el" "haskell-mode-autoloads.el" "haskell-menu.el" "haskell-load.el" "haskell-lexeme.el" "haskell-interactive-mode.el" "haskell-indentation.el" "haskell-indent.el" "haskell-hoogle.el" "haskell-ghc-support.el" "haskell-font-lock.el" "haskell-doc.el" "haskell-decl-scan.el" "haskell-debug.el" "haskell-customize.el" "haskell-completions.el" "haskell-complete-module.el" "haskell-compile.el" "haskell-compat.el" "haskell-commands.el" "haskell-collapse.el" "haskell-cabal.el" "haskell-c2hs.el" "haskell-align-imports.el" "ghci-script-mode.el" "ghc-core.el" "dir" "../" "./")
+
+ ("/Users/motose/dropgg/haskell/cocoPro01/" (22879 45001 0 0) "src/" "out/" "Makefile" "dist/" "cocoPro01.iws" "cocoPro01.ipr" "cocoPro01.iml" "cocoPro01.cabal" ".stack-work/" ".hdevtools.sock" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/motose/Dropbox/" (22823 54581 0 0) "可連.pdf" "アプリ/" "Type/" "Notebooks/" "id_rsa.pub" "id_rsa" "Icon
+" "dropgg/" "cocals.svg" "Apps/" "1Password/" ".DS_Store" ".dropbox.cache/" ".dropbox" "../" "./")
+
+ ("/Users/motose/Documents/" (22860 57714 0 0) "昔の仕事/" "履歴・職歴/" "四ッ葉/" "そのた/" "workspace/" "WinServer.pdf" "Squeakland/" "SageTeX/" "Sage/" "RDC Connections/" "preamble.tex" "PDFLaTeX/" "NanoSync/" "NanoStudio/" "My Pictures/" "MuseScore2/" "MPI による並列計算.pdf" "MiniLab_Manual_JP.pdf" "Microsoft ユーザー データ/" "LaTeX/" "HIARCS Chess/" "haskell並列平行.pdf" "engines/" "EmacsAPL.keylayout" "EBPocket/" "d20170526.tex" "cups-pdf/" "CoCoAPL.keylayout" "Caustic/" "APL.keylayout" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/motose/Dropbox/dropgg/" (22866 25269 0 0) "untitled/" "scala/" "SageTeX/" "react/" "Pythonista/" "python/" "prolog/" "ompi/" "julia/" "java/" "haskell/" "fortran/" "clojure/" "cl/" "c_cpp/" "ada/" ".DS_Store" "../" "./")
+
+ ("/Users/motose/dropgg/" (22866 25269 0 0) "untitled/" "scala/" "SageTeX/" "react/" "Pythonista/" "python/" "prolog/" "ompi/" "julia/" "java/" "haskell/" "fortran/" "clojure/" "cl/" "c_cpp/" "ada/" ".DS_Store" "../" "./")
+
+ ("/Users/" (22795 60171 0 0) "Shared/" "mydev/" "motose/" "Guest/" "coco/" ".localized" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
