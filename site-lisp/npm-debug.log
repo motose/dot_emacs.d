@@ -1,0 +1,85 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node',
+1 verbose cli   '/Users/motose/.nodebrew/current/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '-g',
+1 verbose cli   'typescript-tools' ]
+2 info using npm@2.1.18
+3 info using node@v0.11.14
+4 verbose node symlink /Users/motose/.nodebrew/current/bin/node
+5 silly cache add args [ 'typescript-tools', null ]
+6 verbose cache add spec typescript-tools
+7 silly cache add parsed spec { raw: 'typescript-tools',
+7 silly cache add   scope: null,
+7 silly cache add   name: 'typescript-tools',
+7 silly cache add   rawSpec: '',
+7 silly cache add   spec: '*',
+7 silly cache add   type: 'range' }
+8 verbose addNamed typescript-tools@*
+9 silly addNamed semver.valid null
+10 silly addNamed semver.validRange *
+11 silly addNameRange { name: 'typescript-tools', range: '*', hasData: false }
+12 silly mapToRegistry name typescript-tools
+13 silly mapToRegistry using default registry
+14 silly mapToRegistry registry https://registry.npmjs.org/
+15 silly mapToRegistry uri https://registry.npmjs.org/typescript-tools
+16 verbose addNameRange registry:https://registry.npmjs.org/typescript-tools not in flight; fetching
+17 verbose request uri https://registry.npmjs.org/typescript-tools
+18 verbose request no auth needed
+19 info attempt registry request try #1 at 13:41:00
+20 verbose request id 545c5c1b75121b73
+21 http request GET https://registry.npmjs.org/typescript-tools
+22 http 200 https://registry.npmjs.org/typescript-tools
+23 silly get cb [ 200,
+23 silly get   { date: 'Tue, 13 Jan 2015 04:41:02 GMT',
+23 silly get     server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+23 silly get     etag: '"DMSL5D5Q5G6QJYH2KP39MOP2R"',
+23 silly get     'content-type': 'application/json',
+23 silly get     'cache-control': 'max-age=60',
+23 silly get     'content-length': '14874',
+23 silly get     'accept-ranges': 'bytes',
+23 silly get     via: '1.1 varnish',
+23 silly get     age: '0',
+23 silly get     'x-served-by': 'cache-ty68-TYO',
+23 silly get     'x-cache': 'MISS',
+23 silly get     'x-cache-hits': '0',
+23 silly get     'x-timer': 'S1421124061.741669,VS0,VE866',
+23 silly get     vary: 'Accept',
+23 silly get     connection: 'close' } ]
+24 silly addNameRange number 2 { name: 'typescript-tools', range: '*', hasData: true }
+25 silly addNameRange versions [ 'typescript-tools', [ '0.2.2-1', '0.3.0', '0.3.1' ] ]
+26 verbose addNamed typescript-tools@0.3.1
+27 silly addNamed semver.valid 0.3.1
+28 silly addNamed semver.validRange 0.3.1
+29 silly mapToRegistry name typescript-tools
+30 silly mapToRegistry using default registry
+31 silly mapToRegistry registry https://registry.npmjs.org/
+32 silly mapToRegistry uri https://registry.npmjs.org/typescript-tools
+33 verbose addRemoteTarball https://registry.npmjs.org/typescript-tools/-/typescript-tools-0.3.1.tgz not in flight; adding
+34 verbose addRemoteTarball [ 'https://registry.npmjs.org/typescript-tools/-/typescript-tools-0.3.1.tgz',
+34 verbose addRemoteTarball   '325852bbe945c30210a636ce763307707a53c449' ]
+35 info retry fetch attempt 1 at 13:41:08
+36 info attempt registry request try #1 at 13:41:08
+37 http fetch GET https://registry.npmjs.org/typescript-tools/-/typescript-tools-0.3.1.tgz
+38 http fetch 200 https://registry.npmjs.org/typescript-tools/-/typescript-tools-0.3.1.tgz
+39 silly fetchAndShaCheck shasum 325852bbe945c30210a636ce763307707a53c449
+40 verbose stack Error: shasum check failed for /var/folders/_5/j4grxp8d0wz9gz3j2gbdhtd00000gn/T/npm-64554-dd897609/registry.npmjs.org/typescript-tools/-/typescript-tools-0.3.1.tgz
+40 verbose stack Expected: 325852bbe945c30210a636ce763307707a53c449
+40 verbose stack Actual:   8ebf398db6960d506c07bba46605798b17be02ff
+40 verbose stack     at /Users/motose/.nodebrew/node/v0.11.14/lib/node_modules/npm/node_modules/sha/index.js:38:8
+40 verbose stack     at ReadStream.<anonymous> (/Users/motose/.nodebrew/node/v0.11.14/lib/node_modules/npm/node_modules/sha/index.js:85:7)
+40 verbose stack     at ReadStream.emit (events.js:129:20)
+40 verbose stack     at _stream_readable.js:907:16
+40 verbose stack     at process._tickCallback (node.js:372:11)
+41 verbose cwd /Users/motose/.emacs.d/site-lisp
+42 error Darwin 14.0.0
+43 error argv "node" "/Users/motose/.nodebrew/current/bin/npm" "install" "-g" "typescript-tools"
+44 error node v0.11.14
+45 error npm  v2.1.18
+46 error shasum check failed for /var/folders/_5/j4grxp8d0wz9gz3j2gbdhtd00000gn/T/npm-64554-dd897609/registry.npmjs.org/typescript-tools/-/typescript-tools-0.3.1.tgz
+46 error Expected: 325852bbe945c30210a636ce763307707a53c449
+46 error Actual:   8ebf398db6960d506c07bba46605798b17be02ff
+46 error From:     https://registry.npmjs.org/typescript-tools/-/typescript-tools-0.3.1.tgz
+47 error If you need help, you may report this error at:
+47 error     <http://github.com/npm/npm/issues>
+48 verbose exit [ 1, true ]
