@@ -1,4 +1,0 @@
-# name: language extension
-# key: le
-# --
-${1:$$(yas-choose-value (when (executable-find "ghc") (delete "" (split-string (shell-command-to-string "ghc --supported-languages") "\n"))))}
