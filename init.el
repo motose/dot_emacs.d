@@ -95,7 +95,7 @@
 
 (require 'init-vc)
 (require 'init-darcs)
-(require-package 'dsvn)         ; Subversion interface
+(require-package 'dsvn)     ; Subversion interface おおい
 (require 'init-git)
 (require 'init-github)
 
